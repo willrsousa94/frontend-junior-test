@@ -34,4 +34,5 @@ O prazo de entrega foi informado no e-mail de convite.
 # Espaço para descrever a solução
 
 
- ESCREVA AQUI COMO VOCÊ RESOLVEU A QUESTÃO
+	O formato da página foi baseado em sites de grandes marcas de luxo como Dolce & Gabbana, Louis Vuitton, Empório Armani, entre outras, que utilizam layout minimalista em suas páginas informando apenas o essencial para o seu cliente sem deixa-lo perdido em sua navegação. O objetivo é proporcionar ao cliente um acesso direto, porém de forma elegante e simples. O site desta forma torna-se responsível, podendo encontrar um menu suspenso, fotos em grande escala dos produtos de novas coleções, a parte de pesquisa quase sempre no canto superior direito, utiliza-se fundo branco para destacar a cor preta da escrita das informações.
+	Para esta primeira solução criei um esqueleto do site.
